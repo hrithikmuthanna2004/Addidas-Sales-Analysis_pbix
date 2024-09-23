@@ -1,4 +1,4 @@
-# Addidas-Sales Data Analysis- Power Bi
+# Adidas-Sales Data Analysis- Power Bi
 
 ## Overview:
 This Power BI dashboard provides an analysis of Adidas's sales performance across various dimensions such as time, geography, products, and retail channels. It visually summarizes key business metrics like total sales, operating profit, units sold, and price per unit while allowing for insights into regional and product-based trends.
